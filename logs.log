@@ -1,0 +1,77 @@
+2021-09-15 08:47:44,183 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 08:47:44,837 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 08:47:45,678 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 08:52:22,508 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 08:53:32,945 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 08:57:33,641 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 08:57:34,265 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 08:57:34,970 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 08:58:31,553 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 08:58:32,163 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 08:58:32,870 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 09:02:38,362 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 09:02:38,975 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 09:02:39,682 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 10:39:36,344 : INFO : app.py : File uploaded successfully ...
+2021-09-15 10:51:53,588 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:34:37,325 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:41:33,108 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:44:08,116 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:46:02,870 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:47:25,738 : INFO : app.py : File uploaded successfully ...
+2021-09-15 11:50:38,960 : INFO : app.py : File uploaded successfully ...
+2021-09-15 12:03:51,920 : INFO : app.py : File uploaded successfully ...
+2021-09-15 12:06:40,860 : INFO : app.py : File uploaded successfully ...
+2021-09-15 12:09:56,829 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 12:12:18,552 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 12:12:20,588 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 12:12:23,846 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 12:23:36,739 : INFO : app.py : File uploaded successfully ...
+2021-09-15 12:24:06,340 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 12:24:06,978 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 12:24:07,645 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 12:29:52,690 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 12:29:53,304 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 12:29:54,003 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-15 21:16:21,763 : INFO : app.py : File uploaded successfully ...
+2021-09-15 21:16:24,682 : INFO : app.py : Folder names created successfully . . . !
+2021-09-15 21:16:26,666 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-15 21:16:29,236 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:21:03,911 : INFO : app.py : input values for prediction [['98', '98', '98', '98', '98', '98', '98']]
+2021-09-16 02:22:24,693 : INFO : app.py : File uploaded successfully ...
+2021-09-16 02:22:26,198 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 02:22:26,872 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 02:22:27,549 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:22:45,209 : INFO : app.py : input values for prediction [['8', '78', '787', '76', '76', '7676', '76']]
+2021-09-16 02:24:44,833 : INFO : app.py : input values for prediction [['87', '978', '87', '76', '876', '87', '87']]
+2021-09-16 02:25:34,447 : INFO : app.py : File uploaded successfully ...
+2021-09-16 02:25:35,804 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 02:25:36,448 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 02:25:37,170 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:25:45,352 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '87']]
+2021-09-16 02:25:48,626 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '87']]
+2021-09-16 02:25:56,943 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '87']]
+2021-09-16 02:26:18,101 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '87']]
+2021-09-16 02:26:27,807 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '8']]
+2021-09-16 02:30:19,134 : INFO : app.py : input values for prediction [['98998', '98', '98', '98', '98', '98', '98']]
+2021-09-16 02:31:15,114 : INFO : app.py : File uploaded successfully ...
+2021-09-16 02:31:16,481 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 02:31:17,118 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 02:31:17,786 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:31:28,377 : INFO : app.py : input values for prediction [['87878', '878', '7', '87', '87', '87', '87']]
+2021-09-16 02:31:42,070 : INFO : app.py : input values for prediction [['87878', '878', '7', '87', '87', '87', '87']]
+2021-09-16 02:35:03,042 : INFO : app.py : File uploaded successfully ...
+2021-09-16 02:35:04,236 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 02:35:04,893 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 02:35:05,596 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:35:15,532 : INFO : app.py : input values for prediction [['98', '98', '98', '98', '98', '98', '98']]
+2021-09-16 02:36:25,632 : INFO : app.py : File uploaded successfully ...
+2021-09-16 02:36:26,733 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 02:36:27,418 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 02:36:28,196 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 02:36:35,776 : INFO : app.py : input values for prediction [['76', '76', '76', '76', '76', '76', '7']]
+2021-09-16 12:55:43,246 : INFO : app.py : File uploaded successfully ...
+2021-09-16 12:55:46,230 : INFO : app.py : Folder names created successfully . . . !
+2021-09-16 12:55:53,290 : INFO : app.py : All files cleaned successfully . . . !
+2021-09-16 12:55:59,394 : INFO : app.py : All files combined and created as single file . . . !
+2021-09-16 12:56:20,229 : INFO : app.py : input values for prediction [['87', '87', '87', '87', '87', '87', '98']]

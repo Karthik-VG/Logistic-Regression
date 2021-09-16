@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+</head>
+<body>
+<form action="{{ url_for('predict') }}" method="POST">
+    <fieldset>
+        <legend>Input values:</legend>
+        <br> Time (ms):
+        <input name="time" type="number" required>
+        <br>
+        <br> avg_rss12 :
+        <input name="ip1" type="number" required>
+        <br>
+        <br> var_rss12:
+        <input name="ip2" type="number" required>
+        <br>
+        <br> avg_rss13	:
+        <input name="ip3" type="number" required>
+        <br>
+       <br> var_rss13:
+        <input name="ip4" type="number" required>
+        <br>
+        <br> avg_rss23:
+        <input name="ip5" type="number" required>
+        <br>
+        <br> var_rss23:
+        <input name="ip6" type="number" required>
+        <br>
+        <br>
+        <input type="submit">
+    </fieldset>
+</form>
+<br>
+<div class="result" align="center">
+    {% if result %}
+        {% for variable, value in original_input.items() %}
+            <b>{{ variable }}</b> : {{ value }}
+        {% endfor %}
+        <br>
+        <br> Predicted Output:
+           {{ result }}
+    {% endif %}
+</div>
+
+
+</body>
+</html>
