@@ -1,3 +1,2 @@
 # Logistic-Regression
 
-image.png
